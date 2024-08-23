@@ -1,0 +1,1 @@
+Hi guys! This is a Flashlight 3D Model that I made on Autodesk Fusion 360. It's pretty simple but maybe useful, feel free to use it! You can open it with Solidworks, ThinkerCAD, Meshmixer and other apps. I hope you enjoy it!
